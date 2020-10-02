@@ -1,10 +1,10 @@
 #### GIT first try ##
 
-x <- 3
+x <- 39000
 
-y <- 5
+y <- 5444
 
 # important feature
 
 
-# new feature
+# new feature - adding something
